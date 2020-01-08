@@ -76,7 +76,7 @@ class SketchNet:
         # np.set_printoptions(threshold=np.nan)
         # pp = pprint.PrettyPrinter(indent=4)
 
-        sketchdata = SketchData( 10,10)
+        sketchdata = SketchData(10,10)
 
         self.modeltype = modeltype
 
