@@ -9,10 +9,7 @@ from keras.utils import np_utils
 
 import plot_utils
 from SketchData import SketchData
-import SketchANetModel
-from cnnmodels.SketchANetModelAdapted import SketchANetModelAdapted
-from cnnmodels.FashionModel import FashionModel
-
+from SketchANetModel import SketchANetModel
 
 class SketchNet:
 
